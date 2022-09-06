@@ -1,0 +1,23 @@
+{
+  "name": "typescripttour",
+  "version": "1.0.0",
+  "description": "No Description",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "npx tsc src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeeJaeLee2610/TypeScriptTour.git"
+  },
+  "author": "Lee Jae Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeeJaeLee2610/TypeScriptTour/issues"
+  },
+  "homepage": "https://github.com/LeeJaeLee2610/TypeScriptTour#readme",
+  "devDependencies": {
+    "jest": "^29.0.1"
+  }
+}
